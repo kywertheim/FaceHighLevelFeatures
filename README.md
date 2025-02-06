@@ -1,4 +1,4 @@
-This repository contains code developed by my student, Gulraiz Khan. He developed a deep learning framework to predict the facial landmarks, ages, and genders of human face images. It has a backbone model (ResNet-18) for feature extraction. It is linked to three branches of lightweight neural networks, which share the convolutional feature maps produced by the backbone model in response to an image. They predict the image's facial landmarks, age, and gender respectively. He is now solving the problem of real-time, identity-aware, and clothing-aware 3D reconstruction.
+This repository contains code developed by my student, Gulraiz Khan. He developed a deep learning framework to predict the facial landmarks, ages, and genders of human face images. It has a backbone model (ResNet-18) for feature extraction. It is linked to three branches of lightweight neural networks, which share the convolutional feature maps produced by the backbone model in response to an image. They predict the image's facial landmarks, age, and gender respectively.
 
 To find out more, please read our conference paper.
 
